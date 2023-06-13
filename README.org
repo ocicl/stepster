@@ -4,7 +4,7 @@ Web scraping library
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/walpurgisnatch/stepster.git   |
-| commit  | {"messa  |
+| commit  | 8d8beb6  |
 | systems | stepster |
 |---------+-------------------------------------------|
 
