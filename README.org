@@ -1,0 +1,10 @@
+* stepster
+
+Web scraping library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/walpurgisnatch/stepster.git   |
+| commit  | {"messa  |
+| systems | stepster |
+|---------+-------------------------------------------|
+
