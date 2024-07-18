@@ -2,9 +2,8 @@
 
 Web scraping library
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/walpurgisnatch/stepster.git   |
-| commit  | 8d8beb6  |
-| systems | stepster |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/walpurgisnatch/stepster.git |
+| commit  | 1da1475                                            |
+| systems | stepster                                           |
+|---------+----------------------------------------------------|
